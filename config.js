@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "เย่ๆๆๆ ขอบคุณน้าาา 🎉💝💖💝💓",
         message: "ขอให้วันนี้เป็นวันพิเศษของแบมนะคับ!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
