@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "แล้วถ้า ❤️"                                         // Text for the next button
         },
         third: {
-            text: "ชอบจริงน้าาาา 🌹", // The big question!
+            text: "ชอบที่ให้ม้ายย 🌹", // The big question!
             yesBtn: "ชอบบบ!",                                             // Text for "Yes" button
             noBtn: "ไม่ชอบเลยย"                                                 // Text for "No" button
         }
