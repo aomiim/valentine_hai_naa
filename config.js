@@ -78,10 +78,10 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dpf00wbva/video/upload/v1770990230/%E0%B8%A5%E0%B8%AD%E0%B8%87_%E0%B8%97%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2_x_Kiehl_s_Thailand_official_MV_dgu5ja.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dpf00wbva/video/upload/v1770990673/%E0%B8%A5%E0%B8%AD%E0%B8%87_short_zu491n.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
