@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "ถ้าให้ของขวัญชิ้นนี้ไปจะชอบไหมมม",                          // For the love meter
             startText: "เท่านี้",                                   // Text before the percentage
-            nextBtn: "แล้วถ้า ❤️"                                         // Text for the next button
+            nextBtn: "แล้ว ❤️"                                         // Text for the next button
         },
         third: {
             text: "ชอบที่ให้ม้ายย 🌹", // The big question!
