@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "เย่ๆๆๆ ขอบคุณน้าาา 🎉💝💖💝💓",
-        message: "ขอให้วันนี้เป็นวันพิเศษของแบมนะคับ!",
+        message: "ขอให้วันนี้และวันอื่นๆเป็นวันที่ดีของแบมนะคับ!",
         emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
