@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dpf00wbva/video/upload/v1770990673/%E0%B8%A5%E0%B8%AD%E0%B8%87_short_zu491n.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.65                        // Volume level (0.0 to 1.0)
+        volume: 0.4                        // Volume level (0.0 to 1.0)
     }
 };
 
